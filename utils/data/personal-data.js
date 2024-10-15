@@ -7,11 +7,11 @@ export const personalData = {
   phone: '+254 759 155 650',
   address: 'Nairobi, Kenya',
   github: 'https://github.com/kamau-n',
-  facebook: 'https://www.facebook.com/ka mau/',
+  facebook: 'https://www.facebook.com/harry.kamau.7/',
   linkedIn: 'https://www.linkedin.com/in/kamauharrison/',
   twitter: 'https://twitter.com/NjorogeKam12559',
   stackOverflow: 'https://stackoverflow.com/users/16840768/kamaun',
-  leetcode: "https://leetcode.com/kamaun/",
+  leetcode: "https://leetcode.com/kamauharrison",
   devUsername: "said7388jjjj",
   resume: "https://drive.google.com/file/d/1eyutpKFFhJ9X-qpQGKhUNnVyyyyRkB5Wer00/view?usp=sharingl"
 }

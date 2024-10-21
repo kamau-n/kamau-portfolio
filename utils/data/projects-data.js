@@ -12,6 +12,7 @@ export const projectsData = [
         role: 'Backend Developer',
         code: '',
         demo: '',
+        github:"github.com/kamau-n/final_project_client",
         image: crefin,
     },
     {
@@ -23,6 +24,7 @@ export const projectsData = [
         code: '',
         demo: '',
         image: hamisha,
+        github:"github.com/kamau-n/hamisha"
     },
     {
         id: 3,
@@ -33,17 +35,21 @@ export const projectsData = [
         role: 'Full Stack Developer',
         demo: '',
         image: hamisha,
+        github:"github.com/kamau-n/alumni_native",
+        url:""
     },
-    // {
-    //     id: 4,
-    //     name: 'Newsroom Management',
-    //     description: "My team and I developed a newspaper management dashboard application called Newsroom Management. As a front-end developer, I worked on creating the dashboard using NextJS, Material UI, Redux, Calendar, and other necessary npm libraries. We used React Redux to manage the application's state and React-hook-form and Sun Editor to handle forms.",
-    //     tools: ['NextJS', 'Material UI', 'Redux', 'Sun Editor', "Calendar"],
-    //     code: '',
-    //     demo: '',
-    //     image: ayla,
-    //     role: 'Full Stack Developer',
-    // }
+    {
+        id: 4,
+        name: 'Shopping Application',
+        description: "This site was designed to help people shop online, it was designed to be user friendly and easy to navigate.",
+        tools: ['JS',  "Tailwind CSS", "HTML", ""],
+        code: '',
+        demo: '',
+        image: ayla,
+        role: 'Full Stack Developer',
+        github:"github.com/kamau-n/ShoppingApp",
+        url:"vercel.com/kamauns-projects/shopping-app"
+    }
 ];
 
 

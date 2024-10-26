@@ -2,7 +2,7 @@ export const personalData = {
   name: "Kamau Harrison",
   profile: '/profile.jpg',
   designation: "Software Developer",
-  description: "My name is Kamau Harrison. I am a Software Engineering enthusiast. I am a faster learner, Curious and also a problem solver. Iam always eager to learn and explore new technologies and am passionate about problem-solving. I love almost all the stacks of web application development and love to make the web more open to the world. My core skill is based on Java and Typescript and I love to do most of the things using the two.",
+  description:"My name is Harrison N Kamau. I'm a software engineer by profession. I have a nitch  for problem solving, I believe anything can be solved.All you require is creativity and the  right mindset, break down the problem and start solving it  . I have a passion for learning and exploring new technologies. I love to make systems and application that help in automating and making work easier. I have a strong foundation in Java,Python and Typescript. I love to build automations  with Python, Build Enterprice grade applications with Java and also Use Javascript for web and application Development.",
   email: 'kamaun629@gmail.com',
   phone: '+254 759 155 650',
   address: 'Nairobi, Kenya',

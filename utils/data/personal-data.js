@@ -1,7 +1,7 @@
 export const personalData = {
   name: "Kamau Harrison",
   profile: '/profile.jpg',
-  designation: "Software Developer",
+  designation: "Software Engineer",
   description:"My name is Harrison N Kamau. I'm a software engineer by profession. I have a nitch  for problem solving, I believe anything can be solved.All you require is creativity and the  right mindset, break down the problem and start solving it  . I have a passion for learning and exploring new technologies. I love to make systems and application that help in automating and making work easier. I have a strong foundation in Java,Python and Typescript. I love to build automations  with Python, Build Enterprice grade applications with Java and also Use Javascript for web and application Development.",
   email: 'kamaun629@gmail.com',
   phone: '+254 759 155 650',

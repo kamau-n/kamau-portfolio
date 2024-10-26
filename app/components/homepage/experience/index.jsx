@@ -65,6 +65,17 @@ function Experience() {
                           <p className="text-sm sm:text-base">
                             {experience.company}
                           </p>
+                          <p>
+                            <a
+                              href={`https:// ${experience.website}`}
+                              target="_blank"
+                              rel="noreferrer"
+                              className="text-[#16f2b3] hover:text-[#16f2b3] transition-all duration-300"
+                            >
+                              {experience.website}
+                            </a>
+                          </p>
+                          
                         </div>
                       </div>
                     </div>

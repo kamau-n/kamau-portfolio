@@ -48,7 +48,7 @@ export const projectsData = [
         image: ayla,
         role: 'Full Stack Developer',
         github:"github.com/kamau-n/ShoppingApp",
-        url:"vercel.com/kamauns-projects/shopping-app"
+        url:"shopping-app-seven-chi.vercel.app/"
     }
 ];
 
